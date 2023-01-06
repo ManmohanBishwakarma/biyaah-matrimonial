@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/biyaah-matrimonial/static/css/main.073c9b0a.css",
+    "main.js": "/biyaah-matrimonial/static/js/main.6f795c77.js",
+    "static/js/787.112f22bc.chunk.js": "/biyaah-matrimonial/static/js/787.112f22bc.chunk.js",
+    "static/media/logo.svg": "/biyaah-matrimonial/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/biyaah-matrimonial/index.html",
+    "main.073c9b0a.css.map": "/biyaah-matrimonial/static/css/main.073c9b0a.css.map",
+    "main.6f795c77.js.map": "/biyaah-matrimonial/static/js/main.6f795c77.js.map",
+    "787.112f22bc.chunk.js.map": "/biyaah-matrimonial/static/js/787.112f22bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6f795c77.js"
+  ]
+}
